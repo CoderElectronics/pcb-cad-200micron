@@ -16,6 +16,8 @@ Best of all, it's open-source and comes with lots of resources and an SDK:
 - Altium Designer Project (here)
 - Case and Board Assembly CAD (here)
 
+<img src="ssh_session.gif" width="400" />
+
 ## Manufacturing
 
 This board has been manufactured using the [OSHPark's](https://oshpark.com/) 4 Layer Prototype Service. Three bare PCBs costs roughly $16 USD. You can also order them through JLCPCB which will cost less per board, but more in shipping. Most components (except for CPU and PL2303GL serial bridge) are available through Digikey. (see the included BOM)
