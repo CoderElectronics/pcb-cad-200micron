@@ -16,6 +16,7 @@ Best of all, it's open-source and comes with lots of resources and an SDK:
 - Altium Designer Project (here)
 - Case and Board Assembly CAD (here)
 
+<br>
 <img src="ssh_session.gif" width="600" />
 
 ## Manufacturing
